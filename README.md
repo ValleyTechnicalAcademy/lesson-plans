@@ -8,7 +8,7 @@ Cover Letter Workshop
 ## Percentage of Completion: PHASE 1
 ### Week 1 - 100%
 
-### Week 2 - 0%
+### Week 2 - 100%
 
 ### Week 3 - 0%
 
