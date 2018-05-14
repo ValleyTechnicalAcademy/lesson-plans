@@ -1,12 +1,12 @@
 # Curriculum Overview
 
 Additional Segments:
-Algorithm Practice (30m)
+Algorithm Practice
 Resume Workshop
 Cover Letter Workshop
 
 ## Percentage of Completion:
-### Week 1 - 20%
+### Week 1 - 60%
 
 ### Week 2 - 0%
 
@@ -17,3 +17,5 @@ Cover Letter Workshop
 ### Week 5 - 0%
 
 ### Week 6 - 0%
+
+### Week 7 - 12 0%
