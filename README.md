@@ -5,8 +5,8 @@ Algorithm Practice
 Resume Workshop
 Cover Letter Workshop
 
-## Percentage of Completion:
-### Week 1 - 60%
+## Percentage of Completion: PHASE 1
+### Week 1 - 100%
 
 ### Week 2 - 0%
 
