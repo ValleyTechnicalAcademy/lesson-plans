@@ -10,7 +10,7 @@ Cover Letter Workshop
 
 ### Week 2 - 100%
 
-### Week 3 - 0%
+### Week 3 - 100%
 
 ### Week 4 - 0%
 
