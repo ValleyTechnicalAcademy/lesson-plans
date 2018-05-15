@@ -13,9 +13,9 @@ Atom IDE Tools
 
 ### Week 3 - 100%
 
-### Week 4 - 0%
+### Week 4 - 100%
 
-### Week 5 - 0%
+### Week 5 - 100%
 
 ### Week 6 - 0%
 
