@@ -4,6 +4,7 @@ Additional Segments:
 Algorithm Practice
 Resume Workshop
 Cover Letter Workshop
+Atom IDE Tools
 
 ## Percentage of Completion: PHASE 1
 ### Week 1 - 100%
